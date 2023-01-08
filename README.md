@@ -41,3 +41,5 @@ HelloHexletHello
 счастливого рождества
 Здесь был ежик)
 pull request by Bosqy
+
+Hexlet открывает новые горизонты творчества.
